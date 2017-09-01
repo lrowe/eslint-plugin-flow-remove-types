@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-flow-remove-types",
+  "name": "@lrowe/eslint-plugin-flow-remove-types",
   "version": "0.0.1",
   "description": "A preprocessor to remove Flow type annotations.",
   "keywords": [
